@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore the real settings.py file and just use an example_settings.py file
+# so I can work with my OAuth keys and not accidently commit them into GitHub.
+settings.py
