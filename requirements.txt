@@ -1,2 +1,2 @@
-oauthlib
-requests
+oauth2client
+google-auth
