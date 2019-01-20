@@ -1,2 +1,4 @@
-oauth2client
 google-auth
+oauth2client
+requests  # google-auth uses request, but can be used without it so it's not a dependency.
+SQLAlchemy
